@@ -1,0 +1,35 @@
+# https://python.org
+
+# Esto es un comentario en una linea
+
+"""
+Esto es un comentario
+en varias lineas de texto
+usando doble comillas
+"""
+
+'''
+Esta es otra manera de
+crear comnetarios en varias lineas
+con comillas simples
+'''
+
+# LAS VARIABLES PUEDEN MODIFICARSE A LO LARGO DEL TRABAJO
+mivariable = "Hola, Python"
+mivariable = "Hola, Mundo Python"
+
+# LAS CONSTANTE SON A CONVENIENCIA DEL USUARIO. NO CAMBIA
+CONSTANTE = "Bienvenido a esto que se\
+ llama, Hola Python"
+
+PI = 3.1416 #Puede ser una constante ya que su valor es fijo, no cambia
+
+# DATOS PRIMITIVOS
+my_int = 1 # INT se usa para representar numeros enteros
+my_float = 14.8  # FLOAT se usa para representar numeros decimales
+my_bool = True
+my_bool = False
+my_string = "Mi cadena de texto" # String o STR es una cadena de Texto
+My_other_str = 'Otra cadena de texto'
+
+print("Hola, Python, el valor de pi es:", PI)
